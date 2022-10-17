@@ -1,2 +1,1 @@
-# DIO-DESAFIO-GITHUB-primeiro-
-Desafio de Projeto sobre Git/GitHub Prof: Venilton Falvo Jr.
+# Repositório do Desafio de Projeto sobre GIT/GIThub da DIO
